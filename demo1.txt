@@ -1,0 +1,1 @@
+Hello g. This is a file created locally in a git repo named demo-repo2
